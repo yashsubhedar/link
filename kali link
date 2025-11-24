@@ -1,0 +1,11 @@
+[5:58 pm, 24/11/2025] Yash Khorate Clg🫂: wget https://github.com/aquasecurity/trivy/releases/download/v0.66.0/trivy_0.66.0_Linux-64bit.deb
+[5:58 pm, 24/11/2025] Yash Khorate Clg🫂: sudo dpkg -i trivy_0.66.0_Linux-64bit.deb
+[5:58 pm, 24/11/2025] Yash Khorate Clg🫂: Trivy
+[5:58 pm, 24/11/2025] Yash Khorate Clg🫂: wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz
+[5:58 pm, 24/11/2025] Yash Khorate Clg🫂: tar xvfz pentbox-1.8.tar.gz
+[5:58 pm, 24/11/2025] Yash Khorate Clg🫂: cd pentbox-1.8
+[5:58 pm, 24/11/2025] Yash Khorate Clg🫂: ./pentbox.rb
+[5:58 pm, 24/11/2025] Yash Khorate Clg🫂: Honeypot
+#Openssl 
+sudo apt install openssl
+sudo apt install pwgen
